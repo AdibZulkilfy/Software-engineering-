@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\TCP Server 2\TCP Client 2\bin\Debug\TCP Client 2.exe.config
+C:\Users\User\source\repos\TCP Server 2\TCP Client 2\bin\Debug\TCP Client 2.exe
+C:\Users\User\source\repos\TCP Server 2\TCP Client 2\bin\Debug\TCP Client 2.pdb
+C:\Users\User\source\repos\TCP Server 2\TCP Client 2\obj\Debug\TCP Client 2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TCP Server 2\TCP Client 2\obj\Debug\TCP Client 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\TCP Server 2\TCP Client 2\obj\Debug\TCP_Client_2.s.resources
+C:\Users\User\source\repos\TCP Server 2\TCP Client 2\obj\Debug\TCP_Client_2.Properties.Resources.resources
+C:\Users\User\source\repos\TCP Server 2\TCP Client 2\obj\Debug\TCP Client 2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TCP Server 2\TCP Client 2\obj\Debug\TCP Client 2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TCP Server 2\TCP Client 2\obj\Debug\TCP Client 2.exe
+C:\Users\User\source\repos\TCP Server 2\TCP Client 2\obj\Debug\TCP Client 2.pdb
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\degree\4th year\Sem 2, 2022_2023\Software Engineering\Software Project\TCP Client 2\bin\Debug\TCP Client 2.exe.config
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\degree\4th year\Sem 2, 2022_2023\Software Engineering\Software Project\TCP Client 2\bin\Debug\TCP Client 2.exe
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\degree\4th year\Sem 2, 2022_2023\Software Engineering\Software Project\TCP Client 2\bin\Debug\TCP Client 2.pdb
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\degree\4th year\Sem 2, 2022_2023\Software Engineering\Software Project\TCP Client 2\obj\Debug\TCP Client 2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\degree\4th year\Sem 2, 2022_2023\Software Engineering\Software Project\TCP Client 2\obj\Debug\TCP Client 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\degree\4th year\Sem 2, 2022_2023\Software Engineering\Software Project\TCP Client 2\obj\Debug\TCP_Client_2.s.resources
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\degree\4th year\Sem 2, 2022_2023\Software Engineering\Software Project\TCP Client 2\obj\Debug\TCP_Client_2.Properties.Resources.resources
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\degree\4th year\Sem 2, 2022_2023\Software Engineering\Software Project\TCP Client 2\obj\Debug\TCP Client 2.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\degree\4th year\Sem 2, 2022_2023\Software Engineering\Software Project\TCP Client 2\obj\Debug\TCP Client 2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\degree\4th year\Sem 2, 2022_2023\Software Engineering\Software Project\TCP Client 2\obj\Debug\TCP Client 2.exe
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\degree\4th year\Sem 2, 2022_2023\Software Engineering\Software Project\TCP Client 2\obj\Debug\TCP Client 2.pdb
