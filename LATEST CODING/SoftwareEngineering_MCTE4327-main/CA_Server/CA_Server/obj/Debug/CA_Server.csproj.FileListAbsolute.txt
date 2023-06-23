@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\SoftwareEngineering_MCTE4327-mai\SoftwareEngineering_MCTE4327-main\CA_Server\CA_Server\bin\Debug\CA_Server.exe.config
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\SoftwareEngineering_MCTE4327-mai\SoftwareEngineering_MCTE4327-main\CA_Server\CA_Server\bin\Debug\CA_Server.exe
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\SoftwareEngineering_MCTE4327-mai\SoftwareEngineering_MCTE4327-main\CA_Server\CA_Server\bin\Debug\CA_Server.pdb
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\SoftwareEngineering_MCTE4327-mai\SoftwareEngineering_MCTE4327-main\CA_Server\CA_Server\obj\Debug\CA_Server.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\SoftwareEngineering_MCTE4327-mai\SoftwareEngineering_MCTE4327-main\CA_Server\CA_Server\obj\Debug\CA_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\SoftwareEngineering_MCTE4327-mai\SoftwareEngineering_MCTE4327-main\CA_Server\CA_Server\obj\Debug\CA_Server.Server.resources
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\SoftwareEngineering_MCTE4327-mai\SoftwareEngineering_MCTE4327-main\CA_Server\CA_Server\obj\Debug\CA_Server.Properties.Resources.resources
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\SoftwareEngineering_MCTE4327-mai\SoftwareEngineering_MCTE4327-main\CA_Server\CA_Server\obj\Debug\CA_Server.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\SoftwareEngineering_MCTE4327-mai\SoftwareEngineering_MCTE4327-main\CA_Server\CA_Server\obj\Debug\CA_Server.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\SoftwareEngineering_MCTE4327-mai\SoftwareEngineering_MCTE4327-main\CA_Server\CA_Server\obj\Debug\CA_Server.exe
+C:\Users\User\OneDrive - International Islamic University Malaysia\Desktop\SoftwareEngineering_MCTE4327-mai\SoftwareEngineering_MCTE4327-main\CA_Server\CA_Server\obj\Debug\CA_Server.pdb
